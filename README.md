@@ -23,13 +23,6 @@
 | [**Treino Pro**](https://github.com/felipe-victoriani/treino_pro) | App (PWA) para personal montar treinos e dietas dos alunos |
 | [**CMV Contábil**](https://github.com/felipe-victoriani/cmv_contabil_) | Gestão estilo Trello para escritório de contabilidade |
 
-### 📊 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=felipe-victoriani&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-victoriani&layout=compact&hide_border=true" />
-</p>
-
 ### 📫 Contato
 
 Aberto a projetos freelance e oportunidades. Me chama!
